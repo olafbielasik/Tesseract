@@ -9,6 +9,10 @@ Interactive 4D tesseract (hypercube) visualization built using Three.js
 - Mouse scroll interaction to control 4D spin speed
 - Lightweight and standalone structure
 
+<p align="center">
+  <img src="tesseract.gif"/>
+</p>
+
 ## Technologies
 
 - Three.js (WebGL)

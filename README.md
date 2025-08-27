@@ -12,9 +12,3 @@ Interactive 4D tesseract (hypercube) visualization built using Three.js
 <p align="center">
   <img src="tesseract.gif"/>
 </p>
-
-## Technologies
-
-- Three.js (WebGL)
-- JavaScript
-- HTML + CSS
